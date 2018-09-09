@@ -1,0 +1,22 @@
+{
+  "name": "jvalidate",
+  "version": "1.0.0",
+  "description": "NodeJS Data Validation Library",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayant840084/jvalidate.git"
+  },
+  "author": "Jayant Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayant840084/jvalidate/issues"
+  },
+  "homepage": "https://github.com/jayant840084/jvalidate#readme"
+}
